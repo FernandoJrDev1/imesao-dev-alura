@@ -1,0 +1,410 @@
+[
+  {
+    "nome": "Inteligência Artificial",
+    "descricao": "Um campo da ciência da computação que se dedica a criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana, como o aprendizado, o raciocínio e a percepção. A IA abrange desde assistentes virtuais até complexos algoritmos de análise de dados.",
+    "data_criacao": "Marco histórico: 1956",
+    "areas_de_aplicacao": [
+      "Saúde",
+      "Finanças",
+      "Transporte",
+      "Entretenimento"
+    ],
+    "link_oficial": "https://www.ibm.com/br-pt/topics/artificial-intelligence",
+    "tags": [
+      "aprendizado de máquina",
+      "redes neurais",
+      "ciência de dados"
+    ],
+    "imagem_url": "assets/images/ia.jpg"
+  },
+  {
+    "nome": "Robótica Autônoma",
+    "descricao": "O ramo da robótica focado no desenvolvimento de robôs que podem operar de forma independente em ambientes complexos e dinâmicos, sem a necessidade de controle humano direto. Eles utilizam sensores e algoritmos de IA para navegar, tomar decisões e executar tarefas.",
+    "data_criacao": "Marco histórico: Década de 1960",
+    "areas_de_aplicacao": [
+      "Manufatura",
+      "Logística",
+      "Agricultura",
+      "Exploração"
+    ],
+    "link_oficial": "https://www.universal-robots.com/br/blog/robos-autonomos-o-que-sao-e-seu-uso-na-industria-40/",
+    "tags": [
+      "automação",
+      "robôs",
+      "inteligência artificial",
+      "navegação"
+    ],
+    "imagem_url": "assets/images/robotica-autonoma.jpg"
+  },
+  {
+    "nome": "Realidade Estendida (XR)",
+    "descricao": "Um termo que engloba a Realidade Virtual (VR), a Realidade Aumentada (AR) e a Realidade Mista (MR). A XR cria experiências imersivas que mesclam o mundo real com o digital, sendo aplicada em jogos, treinamento, educação e design.",
+    "data_criacao": "Marco histórico: Década de 1960",
+    "areas_de_aplicacao": [
+      "Jogos",
+      "Educação",
+      "Saúde",
+      "Design",
+      "Treinamento"
+    ],
+    "link_oficial": "https://pt.wikipedia.org/wiki/Realidade_estendida",
+    "tags": [
+      "realidade virtual",
+      "realidade aumentada",
+      "metaverso",
+      "imersão"
+    ],
+    "imagem_url": "assets/images/realidade-estendida.jpg"
+  },
+  {
+    "nome": "Computação Quântica Tolerante a Falhas",
+    "descricao": "Desenvolvimento de qubits robustos e algoritmos de correção de erros escaláveis, permitindo computadores quânticos de larga escala e uso comercial (Qubits Lógicos).",
+    "data_criacao": "Previsão de marco: ~2030",
+     "link_oficial": "https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=computador-quantico-tolerante-a-falhas-qubits-logicos&id=010150230823",
+    "imagem_url": "assets/images/computacao-quantica.jpg",
+    "tags": [
+      "computacao quantica",
+      "hardware",
+      "otimizacao",
+      "criptografia",
+      "correcao de erros"
+    ],
+    "areas_de_aplicacao": ["Farmacologia", "Modelagem Financeira", "Otimização de Logística"]
+  },
+  {
+    "nome": "Redes Neurais Líquidas (LNN)",
+    "descricao": "Arquiteturas de IA inspiradas no cérebro que permitem aprendizado contínuo e adaptabilidade em tempo real, exigindo menos re-treinamento e operando de forma mais eficiente.",
+    "data_criacao": "Previsão de marco: ~2025",
+    "link_oficial": "https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=redes-neurais-liquidas-aprendem-no-trabalho",
+    "imagem_url": "assets/images/redes-neurais-liquidas.jpg",
+    "tags": [
+      "aprendizado de maquina",
+      "neurociencia",
+      "eficiencia energetica",
+      "IA adaptativa"
+    ],
+    "areas_de_aplicacao": ["Sistemas de Controle Autônomo", "Monitoramento Ambiental", "Processamento de Sinais"]
+  },
+  {
+    "nome": "Bio-printing 3D de Órgãos",
+    "descricao": "Tecnologia que utiliza biotintas e células vivas para imprimir tecidos e órgãos funcionais sob demanda, eliminando a necessidade de doações para transplantes.",
+    "data_criacao": "Previsão de marco: ~2032",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Bioimpress%C3%A3o",
+    "imagem_url": "assets/images/bio-printing.jpg",
+    "tags": [
+      "biotecnologia",
+      "medicina regenerativa",
+      "impressao 3D",
+      "saude"
+    ],
+    "areas_de_aplicacao": ["Transplantes", "Testes de Medicamentos", "Modelagem de Doenças Humanas"]
+  },
+  {
+    "nome": "Reatores de Fusão Tokamak de Segunda Geração",
+    "descricao": "Desenvolvimento de reatores que utilizam confinamento magnético (Tokamak) para gerar energia limpa e ilimitada a partir da fusão nuclear sustentada, visando a comercialização.",
+    "data_criacao": "Previsão de marco: ~2040",
+    "link_oficial": "https://olhardigital.com.br/2024/05/23/ciencia-e-espaco/o-que-e-um-tokamak-e-como-funciona-um-reator-de-fusao-nuclear/",
+    "imagem_url": "assets/images/reator-fusao.jpg",
+    "tags": [
+      "energia limpa",
+      "fisica nuclear",
+      "sustentabilidade",
+      "infraestrutura"
+    ],
+    "areas_de_aplicacao": ["Geração de Eletricidade em Grande Escala", "Descarbonização da Matriz Energética"]
+  },
+  {
+    "nome": "Criptografia Pós-Quântica (PQC)",
+    "descricao": "Novos algoritmos criptográficos (como Lattice-based, Isogeny-based) projetados para serem seguros contra ataques de computadores quânticos em larga escala.",
+    "data_criacao": "Previsão de marco: ~2026",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Criptografia_p%C3%B3s-qu%C3%A2ntica",
+    "imagem_url": "assets/images/criptografia-pos-quantica.jpg",
+    "tags": [
+      "seguranca cibernetica",
+      "criptografia",
+      "algoritmos",
+      "computacao"
+    ],
+    "areas_de_aplicacao": ["Comunicações Seguras", "Transações Financeiras", "Infraestrutura Crítica"]
+  },
+  {
+    "nome": "Mineração de Asteroides",
+    "descricao": "Tecnologias desenvolvidas para extrair metais raros, minerais e água (para combustível) de asteroides próximos à Terra, impulsionando a economia espacial.",
+    "data_criacao": "Previsão de marco: ~2035",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Minera%C3%A7%C3%A3o_de_asteroides",
+    "imagem_url": "assets/images/mineracao-asteroides.jpg",
+    "tags": [
+      "exploracao espacial",
+      "recursos",
+      "engenharia",
+      "astronomia"
+    ],
+    "areas_de_aplicacao": ["Indústria Espacial", "Manufatura Orbital", "Abastecimento de Missões"]
+  },
+  {
+    "nome": "Terapia Fágica Contra Superbactérias",
+    "descricao": "Uso de bacteriófagos (vírus que atacam bactérias) como alternativa aos antibióticos tradicionais no combate a infecções resistentes a medicamentos (superbactérias).",
+    "data_criacao": "Previsão de marco: ~2028",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Fagoterapia",
+    "imagem_url": "assets/images/terapia-fagica.jpg",
+    "tags": [
+      "medicina",
+      "biotecnologia",
+      "saude publica",
+      "farmacologia"
+    ],
+    "areas_de_aplicacao": ["Tratamento de Infecções Resistentes", "Saúde Militar", "Pecuária"]
+  },
+  {
+    "nome": "Captura Direta de Carbono do Ar (DAC)",
+    "descricao": "Instalações industriais que sugam diretamente o CO2 da atmosfera usando produtos químicos ou filtros especializados, neutralizando as emissões históricas.",
+    "data_criacao": "Previsão de marco: ~2027",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Captura_direta_de_ar",
+    "imagem_url": "assets/images/captura-carbono.jpg",
+    "tags": [
+      "clima",
+      "engenharia ambiental",
+      "sustentabilidade",
+      "mitigacao de carbono"
+    ],
+    "areas_de_aplicacao": ["Indústria Pesada", "Produção de Combustíveis Sintéticos", "Mitigação Climática"]
+  },
+  {
+    "nome": "Meta-Materiais Programáveis",
+    "descricao": "Materiais sintéticos com estruturas desenhadas artificialmente que exibem propriedades que não ocorrem na natureza e que podem ser alteradas por estímulos externos (luz, eletricidade).",
+    "data_criacao": "Previsão de marco: ~2030",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Metamaterial",
+    "imagem_url": "assets/images/meta-materiais.jpg",
+    "tags": [
+      "ciencia de materiais",
+      "nanotecnologia",
+      "engenharia",
+      "manufatura"
+    ],
+    "areas_de_aplicacao": ["Óptica", "Invisibilidade (teórica)", "Engenharia Civil", "Acústica"]
+  },
+  {
+    "nome": "Sistemas de Governança Descentralizada Autônoma (DACs)",
+    "descricao": "Estruturas organizacionais baseadas em blockchain e contratos inteligentes que operam sem hierarquia centralizada, gerindo recursos ou tomando decisões de forma algorítmica.",
+    "data_criacao": "Previsão de marco: ~2025",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_aut%C3%B4noma_descentralizada",
+    "imagem_url": "assets/images/governanca-descentralizada.jpg",
+    "tags": [
+      "blockchain",
+      "organizacao",
+      "governanca",
+      "financas descentralizadas"
+    ],
+    "areas_de_aplicacao": ["Finanças", "Gestão Comunitária", "Logística", "Setor Público"]
+  },
+  {
+    "nome": "Interfaces Cerebrais Não Invasivas de Alta Resolução",
+    "descricao": "Tecnologia que permite a comunicação bidirecional entre o cérebro e máquinas com alta precisão, sem a necessidade de cirurgia invasiva.",
+    "data_criacao": "Previsão de marco: ~2028",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Interface_c%C3%A9rebro-computador",
+    "imagem_url": "assets/images/interface-cerebral.jpg",
+    "tags": [
+      "neurotecnologia",
+      "interacao humano-maquina",
+      "saude",
+      "inovacao"
+    ],
+    "areas_de_aplicacao": ["Reabilitação Médica", "Controle de Próteses", "Jogos", "Comunicação"]
+  },
+  {
+    "nome": "Propulsão Iônica Avançada",
+    "descricao": "Motores que utilizam campos elétricos para acelerar íons a velocidades extremas, aumentando drasticamente a eficiência do combustível para missões espaciais longas.",
+    "data_criacao": "Previsão de marco: ~2030",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Propulsor_i%C3%B4nico",
+    "imagem_url": "assets/images/propulsao-ionica.jpg",
+    "tags": [
+      "exploracao espacial",
+      "propulsao",
+      "engenharia aeroespacial",
+      "eficiencia"
+    ],
+    "areas_de_aplicacao": ["Viagens Interplanetárias", "Satélites", "Transporte de Carga Orbital"]
+  },
+  {
+    "nome": "Medicina Genômica Personalizada (CRISPR Avançado)",
+    "descricao": "Uso de ferramentas de edição genética de precisão (como o Prime Editing e Base Editing) para corrigir defeitos genéticos em nível de base, curando doenças hereditárias.",
+    "data_criacao": "Previsão de marco: ~2029",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Edi%C3%A7%C3%A3o_de_genes",
+    "imagem_url": "assets/images/medicina-genomica.jpg",
+    "tags": [
+      "biotecnologia",
+      "saude",
+      "edicao genetica",
+      "terapia"
+    ],
+    "areas_de_aplicacao": ["Tratamento de Doenças Raras", "Oncologia", "Prevenção Médica"]
+  },
+  {
+    "nome": "Geoengenharia Solar Estratosférica (SAI)",
+    "descricao": "Métodos potenciais de combate ao aquecimento global através da injeção de aerossóis na estratosfera para refletir a luz solar, imitando o efeito de grandes erupções vulcânicas.",
+    "data_criacao": "Previsão de marco: ~2035",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Engenharia_clim%C3%A1tica",
+    "imagem_url": "assets/images/geoengenharia-solar.jpg",
+    "tags": [
+      "clima",
+      "engenharia ambiental",
+      "risco etico",
+      "sustentabilidade"
+    ],
+    "areas_de_aplicacao": ["Regulação Climática Global", "Pesquisa Atmosférica"]
+  },
+  {
+    "nome": "Nanobots de Reparo Celular",
+    "descricao": "Dispositivos robóticos em nanoescala injetáveis, projetados para navegar no corpo humano e realizar tarefas como reparo de células danificadas ou entrega ultra-precisa de medicamentos.",
+    "data_criacao": "Previsão de marco: ~2045",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Nanorrob%C3%B3tica",
+    "imagem_url": "assets/images/nanobots.jpg",
+    "tags": [
+      "nanotecnologia",
+      "medicina",
+      "saude",
+      "bioengenharia"
+    ],
+    "areas_de_aplicacao": ["Cirurgia Minimamente Invasiva", "Oncologia", "Reparo de Tecidos"]
+  },
+  {
+    "nome": "Baterias de Estado Sólido de Lítio-Metal",
+    "descricao": "Nova geração de baterias que utilizam eletrólitos sólidos, oferecendo densidade energética significativamente maior, carregamento mais rápido e segurança aprimorada em relação às baterias de íon-lítio atuais.",
+    "data_criacao": "Previsão de marco: ~2027",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Bateria_de_estado_s%C3%B3lido",
+    "imagem_url": "assets/images/baterias-estado-solido.jpg",
+    "tags": [
+      "armazenamento de energia",
+      "mobilidade",
+      "ciencia de materiais",
+      "eletronica"
+    ],
+    "areas_de_aplicacao": ["Veículos Elétricos (EV)", "Eletrônicos Portáteis", "Armazenamento Residencial"]
+  },
+  {
+    "nome": "Exosqueletos de Potência Civil",
+    "descricao": "Dispositivos vestíveis robóticos, leves e assistidos por IA, projetados para aumentar a força, resistência e mobilidade humana em ambientes industriais, de resgate e de consumo.",
+    "data_criacao": "Previsão de marco: ~2026",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Exoesqueleto_energizado",
+    "imagem_url": "assets/images/exosqueletos.jpg",
+    "tags": [
+      "wearables",
+      "assistencia",
+      "engenharia",
+      "interacao humano-maquina"
+    ],
+    "areas_de_aplicacao": ["Logística", "Manufatura", "Construção Civil", "Reabilitação"]
+  },
+  {
+    "nome": "Vela Solar Fotônica",
+    "descricao": "Método de propulsão espacial que utiliza velas gigantescas e ultrafinas empurradas pela pressão da luz solar ou por lasers potentes baseados na Terra, permitindo viagens mais rápidas dentro do sistema solar.",
+    "data_criacao": "Previsão de marco: ~2033",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Vela_solar",
+    "imagem_url": "assets/images/vela-solar.jpg",
+    "tags": [
+      "exploracao espacial",
+      "propulsao",
+      "energia",
+      "inovacao"
+    ],
+    "areas_de_aplicacao": ["Missões Interplanetárias", "Exploração de Fronteiras Solares"]
+  },
+  {
+    "nome": "Simulação de Gêmeos Digitais Planetários",
+    "descricao": "Modelos virtuais extremamente complexos de cidades, regiões ou do planeta inteiro, atualizados em tempo real, usados para simular políticas, clima, infraestrutura e pandemias.",
+    "data_criacao": "Previsão de marco: ~2031",
+    "link_oficial": "https://pt.wikipedia.org/wiki/G%C3%AAmeo_digital",
+    "imagem_url": "assets/images/gemeos-digitais.jpg",
+    "tags": [
+      "simulacao",
+      "big data",
+      "modelagem",
+      "infraestrutura"
+    ],
+    "areas_de_aplicacao": ["Planejamento Urbano", "Gestão de Crises", "Modelagem Climática"]
+  },
+  {
+    "nome": "Fabricação Aditiva em Escala Atômica",
+    "descricao": "Técnicas de manufatura que utilizam nanobots ou processos químicos controlados para construir estruturas moleculares complexas, átomo por átomo.",
+    "data_criacao": "Previsão de marco: ~2040",
+    "link_oficial": "https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=fabricacao-atomica-precisa-ainda-nao-esta-pronta",
+    "imagem_url": "assets/images/fabricacao-aditiva.jpg",
+    "tags": [
+      "nanotecnologia",
+      "manufatura",
+      "engenharia de precisao",
+      "ciencia de materiais"
+    ],
+    "areas_de_aplicacao": ["Desenvolvimento de Chips", "Materiais Avançados", "Microeletrônica"]
+  },
+  {
+    "nome": "Concreto Auto-Regenerativo",
+    "descricao": "Materiais de construção infundidos com esporos bacterianos ou cápsulas poliméricas que se ativam na presença de rachaduras ou umidade, curando o material automaticamente e prolongando sua vida útil.",
+    "data_criacao": "Previsão de marco: ~2028",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Bioconcreto",
+    "imagem_url": "assets/images/concreto-regenerativo.jpg",
+    "tags": [
+      "engenharia civil",
+      "ciencia de materiais",
+      "sustentabilidade",
+      "infraestrutura"
+    ],
+    "areas_de_aplicacao": ["Construção de Pontes", "Estradas", "Edifícios", "Redução de Manutenção"]
+  },
+  {
+    "nome": "Regulamentação de Entidades Digitais Sencientes (DSRE)",
+    "descricao": "Estruturas legais e éticas antecipadas para lidar com o surgimento potencial de IAs ou entidades virtuais que exibam formas de autoconsciência ou senciência avançada.",
+    "data_criacao": "Previsão de marco: ~2035",
+    "link_oficial": "https://pt.wikipedia.org/wiki/%C3%89tica_da_intelig%C3%AAncia_artificial",
+    "imagem_url": "assets/images/regulamentacao-ia.jpg",
+    "tags": [
+      "etica",
+      "lei",
+      "governanca",
+      "filosofia da tecnologia"
+    ],
+    "areas_de_aplicacao": ["Direito Digital", "Desenvolvimento de IA", "Filosofia"]
+  },
+  {
+    "nome": "Sensores de Saúde Integrados (Tatuagens Eletrônicas)",
+    "descricao": "Dispositivos eletrônicos finos e flexíveis, aplicados diretamente na pele como tatuagens temporárias, capazes de monitorar continuamente sinais vitais, metabólicos e níveis de glicose com alta precisão.",
+    "data_criacao": "Previsão de marco: ~2026",
+    "link_oficial": "https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=tatuagem-eletronica-mede-pressao-arterial-continuamente",
+    "imagem_url": "assets/images/sensores-saude.jpg",
+    "tags": [
+      "biomedicina",
+      "wearables",
+      "saude",
+      "eletronica flexivel"
+    ],
+    "areas_de_aplicacao": ["Monitoramento de Doenças Crônicas", "Medicina Esportiva", "Telessaúde"]
+  },
+  {
+    "nome": "Geração de Energia a partir de Microalgas",
+    "descricao": "Cultivo massivo de microalgas para produção de biocombustíveis (bio-óleo) e para captura eficiente de carbono, oferecendo uma alternativa de energia renovável com balanço de CO2 neutro.",
+    "data_criacao": "Previsão de marco: ~2029",
+    "link_oficial": "https://www.ecycle.com.br/combustivel-de-algas/",
+    "imagem_url": "assets/images/energia-microalgas.jpg",
+    "tags": [
+      "bioenergia",
+      "sustentabilidade",
+      "biotecnologia",
+      "combustiveis"
+    ],
+    "areas_de_aplicacao": ["Transporte Marítimo", "Aviação", "Produção de Bioprodutos"]
+  },
+  {
+    "nome": "Agricultura Vertical Controlada por Microssistemas",
+    "descricao": "Fazendas urbanas verticais totalmente automatizadas, utilizando luzes LED e controle climático preciso (hidroponia/aeroponia) para maximizar a produção de alimentos com mínimo uso de água e zero pesticidas.",
+    "data_criacao": "Previsão de marco: ~2025",
+    "link_oficial": "https://pt.wikipedia.org/wiki/Agricultura_vertical",
+    "imagem_url": "assets/images/agricultura-vertical.jpg",
+    "tags": [
+      "agricultura",
+      "sustentabilidade",
+      "automacao",
+      "alimentos"
+    ],
+    "areas_de_aplicacao": ["Abastecimento Urbano", "Produção de Safras de Alto Valor", "Segurança Alimentar"]
+  }
+]

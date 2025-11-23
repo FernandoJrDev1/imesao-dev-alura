@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <title>Desvendando o Futuro</title>
+</head>
+<body>
+    <header>
+        <h1>Desvendando o Futuro</h1>
+        <div>
+            <input type="text" placeholder="Sobre qual tecnologia voçê quer saber mais?" onkeyup="if (event.key === 'Enter') iniciarBusca();">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- Exemplo de como o card será renderizado pelo JavaScript -->
+            <!-- <article class="card">
+                <h2>Inteligência Artificial</h2>
+                <p>Um campo da ciência da computação que se dedica a criar sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana...</p>
+                <p><strong>Criação:</strong> Conceito formalizado em 1956</p>
+                <p><strong>Áreas de Aplicação:</strong> Saúde, Finanças, Transporte, Entretenimento</p>
+                <div class="tags"><span>#aprendizado de máquina</span> <span>#redes neurais</span> <span>#ciência de dados</span></div>
+                <a href="https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial" target="_blank">Saiba mais</a>
+            </article>
+            -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/FernandoJrDev1" target="_blank">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.alura.com.br/" target="_blank">alura</a>
+            </li>
+        </ul>
+    <script src="script.js"></script>
+</body>
+</html>
